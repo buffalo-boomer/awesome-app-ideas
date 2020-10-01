@@ -6,6 +6,15 @@
 
 ## Ideas
 
+### iOS Sideloading Client (Digital Forensics) 
+
+An application that can root the iOS Chip to allow for installation of open-source digital forensics tools I. E. Caine, SANS Swift, dd, etc. 
+Rootkits do exist for iOS but most are tied to the Cydia store or something similar.  
+Need some sort of VM client or capability to apply 2 OS and switch between the two on startup.
+Forensic OS would need root access to all data on the host system. 
+Continuous deployment throughout the lifecycle of the device.
+Potentially need to develop mobile-friendly versions of the tools listed above or provide access if they are hosted in the cloud/on a server.
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
